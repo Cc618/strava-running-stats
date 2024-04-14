@@ -1,8 +1,6 @@
-# Strava Running Statistics
+# Strava Running Statistics :running:
 
 Script to fetch data from your activities on Strava and display various statistics from them.
-
-:run:
 
 ## Example
 
